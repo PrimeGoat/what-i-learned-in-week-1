@@ -1,2 +1,5 @@
-# what-i-learned-in-week-1
-What I learned in week 1
+# What I learned in Week 1
+
+- As I started a week late, I learned about the development environment used in this class.
+- I familiarized myself with git.
+- I learned more about CSS.
